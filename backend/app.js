@@ -8,4 +8,4 @@ if(process.env.NODE_ENV !== "PRODUCTION"){
     })
 }
 
-module.export = app;
+module.exports = app;
